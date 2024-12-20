@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "436345225901",
+    "firebase_url": "https://rahasya-official-default-rtdb.firebaseio.com",
+    "project_id": "rahasya-official",
+    "storage_bucket": "rahasya-official.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436345225901:android:e112f5e8f85cd76243bc24",
+        "android_client_info": {
+          "package_name": "com.rahasya.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436345225901-9635t5ptp9f2rv87bb1j2kb7jja7c76c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rahasya.app",
+            "certificate_hash": "bda6d0a62f7a26228f61753f7410f4150a293a42"
+          }
+        },
+        {
+          "client_id": "436345225901-8s8ekvdakebn4clr57his19i6jh898gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNDS03Kg0zxewQqAlTmncj0uWUeGATN68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436345225901-8s8ekvdakebn4clr57his19i6jh898gd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "436345225901-m7pqbplb1sfi7vg3gpk8parfe1ua4ne8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rahasya.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
